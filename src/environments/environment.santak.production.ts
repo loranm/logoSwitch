@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  logo: './assets/logo.png',
+  logo: './assets/santak/santak.png',
 };
